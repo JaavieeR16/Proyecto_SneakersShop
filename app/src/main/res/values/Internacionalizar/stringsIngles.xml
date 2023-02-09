@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!--<string name="app_name">Sneakers Shop</string>
+    <string name="app_name">Sneakers Shop</string>
     <string name="tv_Main">Log In</string>
     <string name="tv_Main2">Enter username and password:</string>
     <string name="tv_Main3">Still not registered?</string>
@@ -20,5 +20,5 @@
     <string name="tv_Conf">Account settings</string>
     <string name="btn_Detalles">Buy</string>
     <string name="tv_Conf2">Your information</string>
-    <string name="btn_Conf">Update</string>-->
+    <string name="btn_Conf">Update</string>
 </resources>
