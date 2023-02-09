@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_marcas"
+        android:title="@string/action_marcas" />
+    <item
+        android:id="@+id/action_micuenta"
+        android:title="@string/_micuenta" >
+        <menu >
+            <item
+                android:id="@+id/action_configuracion"
+                android:title="@string/action_configuracion" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/action_cerrarsesion"
+        android:title="@string/action_cerrar_sesion" />
+</menu>

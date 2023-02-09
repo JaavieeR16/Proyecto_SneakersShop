@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Sneakers Shop</string>
+    <string name="tv_Main">Iniciar Sesión</string>
+    <string name="tv_Main2">Ingrese usuario y contraseña:</string>
+    <string name="tv_Main3">¿Aún no estás registrado?</string>
+    <string name="tv_Main4"><u>Registrate</u></string>
+    <string name="btn_Main">Iniciar Sesión</string>
+    <string name="Copy">Todos los derechos reservados © 2022 -2023 Javier Monroy Muñoz</string>
+    <string name="tv_Registro">Registro</string>
+    <string name="tv_Registro2">Rellene todos los campos:</string>
+    <string name="tv_registro3"><u>Política de privacidad y términos de uso</u></string>
+    <string name="btn_Registro">Registrarse</string>
+    <string name="tv_Home">Marcas</string>
+    <string name="tv_Card">Marca</string>
+    <string name="_micuenta">Mi Cuenta</string>
+    <string name="action_configuracion">Configuración</string>
+    <string name="action_cerrar_sesion">Cerrar Sesión</string>
+    <string name="action_marcas">Marcas</string>
+    <string name="tv_Conf">Configuración de Cuenta</string>
+    <string name="btn_Detalles">Comprar</string>
+    <string name="tv_Conf2">Tu Información</string>
+    <string name="btn_Conf">Actualizar</string>
+</resources>
